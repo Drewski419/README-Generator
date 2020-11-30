@@ -28,13 +28,13 @@ produce README file
 This application is covered by the ISC license. 
 
 ## Contributing
-Andrew Jefferson
+A. Jefferson
 
 ## Tests
 no
 
 ## Questions
-<br />
+
 <br />
 Find me on GitHub: [Drewski419](https://github.com/Drewski419)<br />
 <br />
