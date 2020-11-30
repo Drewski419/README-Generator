@@ -5,7 +5,7 @@
 ![badge](https://img.shields.io/badge/license-ISC-brightgreen)<br />
 
 ## Description
-🔍 Use CLI to generate README file
+Use CLI to generate README file
 
 ## Table of Contents
 - [Description](#description)
@@ -17,10 +17,10 @@
 - [Questions](#questions)
 
 ## Installation
-💾 Inquiry
+Inquiry
 
 ## Usage
-💻 create a README file
+produce README file
 
 ## License
 ![badge](https://img.shields.io/badge/license-ISC-brightgreen)
@@ -28,15 +28,15 @@
 This application is covered by the ISC license. 
 
 ## Contributing
-👪 Andrew Jefferson
+Andrew Jefferson
 
 ## Tests
-✏️ no
+no
 
 ## Questions
-✋ <br />
 <br />
-:octocat: Find me on GitHub: [Drewski419](https://github.com/Drewski419)<br />
+<br />
+Find me on GitHub: [Drewski419](https://github.com/Drewski419)<br />
 <br />
 ✉️ Email me with any questions: ajefferson419@yahoo.com<br /><br />
 
