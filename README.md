@@ -20,7 +20,7 @@ Use CLI to generate README file
 Inquiry
 
 ## Usage
-produce README file
+produce README file using Node
 
 ## License
 ![badge](https://img.shields.io/badge/license-ISC-brightgreen)
@@ -35,7 +35,6 @@ no
 
 ## Questions
 
-<br />
 Find me on GitHub: [Drewski419](https://github.com/Drewski419)<br />
 <br />
 ✉️ Email me with any questions: ajefferson419@yahoo.com<br /><br />
