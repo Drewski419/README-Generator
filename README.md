@@ -14,11 +14,11 @@ Below is a demonstration showing how the application works.
 
 
 ## User Story
-```md
+``````````````````````````````````````````````````````````````````
 AS A developer
 I WANT a README generator
 SO THAT I can quickly create a professional README for a new project
-```
+``````````````````````````````````````````````````````````````````
 
 ## Table of Contents
 - [Description](#description)
