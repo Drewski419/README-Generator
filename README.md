@@ -1,5 +1,5 @@
 
-<h1 align="center">README Generator 👋</h1>
+<h1>README Generator</h1>
 
 
 ![badge](https://img.shields.io/badge/license-ISC-brightgreen)<br />
@@ -7,10 +7,10 @@
 ## Description
 Use CLI to generate README file
 
+
 Below is a demonstration showing how the application works.
 
-[Demo](images/ajefferson-readme-generator.gif)
-
+![Demo](images/ajefferson-readme-generator.gif)
 
 
 ## User Story
