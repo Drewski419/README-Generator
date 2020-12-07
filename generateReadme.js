@@ -41,7 +41,7 @@ Find me on GitHub: [${answers.username}](https://github.com/${answers.username})
 <br />
 ✉️ Email me with any questions: ${answers.email}<br /><br />
 
-_This README was generated with ❤️ by [README-generator](https://github.com/Drewski419/README-generator) 🔥🔥🔥_
+This README was generated using [README-generator](https://github.com/Drewski419/README-generator) 
   `;
 }
 

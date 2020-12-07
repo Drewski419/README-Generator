@@ -52,5 +52,5 @@ Find me on GitHub: [Drewski419](https://github.com/Drewski419)<br />
 <br />
 ✉️ Email me with any questions: ajefferson419@yahoo.com<br /><br />
 
-_This README was generated with ❤️ by [README-generator](https://github.com/Drewski419/README-generator) 🔥🔥🔥_
+This README was generated using [README-generator](https://github.com/Drewski419/README-generator) 
   
