@@ -7,6 +7,19 @@
 ## Description
 Use CLI to generate README file
 
+Below is a demonstration showing how the application works.
+
+[Demo](images/ajefferson-readme-generator.gif)
+
+
+
+## User Story
+```md
+AS A developer
+I WANT a README generator
+SO THAT I can quickly create a professional README for a new project
+```
+
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
