@@ -10,7 +10,7 @@ Use CLI to generate README file
 
 Below is a demonstration showing how the application works.
 
-[Demo](ajefferson-readme-generator.gif)
+![My Demo](ajefferson-readme-generator.gif)
 
 
 ## User Story
